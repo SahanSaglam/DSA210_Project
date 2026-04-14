@@ -7,7 +7,7 @@ This project analyzes factors influencing movie success using both financial and
 - TMDB 5000 Movie Dataset (Kaggle)
   - Includes budget, revenue, genres, and popularity
 - IMDb Dataset
-  Download: https://datasets.imdbws.com/  
+  Download: https://datasets.imdbws.com/  (file size was too big to commit but have runned it locally for the analysis)
 Files used:
  - `title.basics.tsv`
  - `title.ratings.tsv`
